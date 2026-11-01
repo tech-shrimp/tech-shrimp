@@ -1,1 +1,1 @@
-github是个神奇的东西
+print（“Hello world”）
